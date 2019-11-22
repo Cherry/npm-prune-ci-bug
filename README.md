@@ -11,4 +11,4 @@ To build the image, simply run: `docker build -t test .`
 
 You can tweak the npm version to see it working/failing on different version on line 3 of the `Dockerfile`.
 
-For more information, see the reported issue at: ~~insert link~~
+For more information, see the reported issue at: https://github.com/npm/cli/issues/514
